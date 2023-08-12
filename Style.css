@@ -1,0 +1,12 @@
+body {
+    position: relative;
+    display: flex;
+    align-items: center;
+    background-color: #140f07;
+    height: 100vh;
+}
+
+.content {
+    position: relative;
+    display: grid;
+}
